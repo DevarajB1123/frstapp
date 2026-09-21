@@ -1,0 +1,6 @@
+{
+  "name": "Campus Lost & Found",
+  "description": "College Lost & Found Management System to report, search, match, and recover lost and found campus items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
